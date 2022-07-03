@@ -1,0 +1,17 @@
+.container {
+display:flex;
+align-items: stretch;
+width:640px;
+height:80px; 
+margin-left: 400px;
+margin-right:400px;
+  
+}
+
+/*.subcontainer {
+  border: 6px solid black;
+  flex-direction: row;
+  height: 800px;
+  width: 800px;
+}*/
+
